@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YDorukhanTW
 - 👀 I’m interested in applying ML techniques for trading
-- 🌱 I’m currently learning ML on C#. 
+- 🌱 I’m currently learning ML
 
 <!---
 YDorukhanTW/YDorukhanTW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
